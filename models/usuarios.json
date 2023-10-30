@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nombre": "John",
+    "apellido": "Doe",
+    "edad": 25,
+    "sexo": "M",
+    "pais": "USA",
+    "email": "john.doe@example.com",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Jane",
+    "apellido": "Smith",
+    "edad": 30,
+    "sexo": "F",
+    "pais": "UK",
+    "email": "jane.smith@example.com",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Michael",
+    "apellido": "Johnson",
+    "edad": 35,
+    "sexo": "M",
+    "pais": "Canada",
+    "email": "michael.johnson@example.com",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Emily",
+    "apellido": "Brown",
+    "edad": 28,
+    "sexo": "F",
+    "pais": "Australia",
+    "email": "emily.brown@example.com",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "David",
+    "apellido": "Lee",
+    "edad": 32,
+    "sexo": "M",
+    "pais": "China",
+    "email": "david.lee@example.com",
+    "activo": false
+  }
+]
